@@ -25,13 +25,6 @@
 | **Node.js**     | heroku/nodejs|
 
 # big tqto
-| Tqto |
-| :-----------------: | :-------: |
-| Allah SWT|
-| Ortu|
-| Adiwajsing|
-| Penyedia module|
-| My frend|
-| Penyedia base|
+* ```Allah SWT```
 
 
