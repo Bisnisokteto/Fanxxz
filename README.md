@@ -24,12 +24,15 @@
 | **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 | **Node.js**     | heroku/nodejs|
 
+# Note
+* **Jangan di perjual belikan script ini**
+* **Script ini free**
+* **Silahkan di recode sesuai kebutuhan kalian**
+* **Jangan hapus tqto nya**
+
 # big tqto
 * ```Allah SWT```
 * ```adiwajsing```
 * ```Penyedia module```
 * ```My Ortu```
 * ```My frend```
-
-# Note
-* **Jangan di perjual belikan script ini**
