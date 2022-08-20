@@ -15,6 +15,7 @@
   <a href="https://wa.me/6288223674569">Klik disini untuk whatsapp DikaaOfc </a>
 </h4>
 </p>
+  <h4 align="center">
 <a
   <a href="https://wa.me/6288223674569">Fitur eror? harap lapor owner </a>
 </h4>
