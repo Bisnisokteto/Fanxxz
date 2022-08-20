@@ -25,8 +25,13 @@
 | **Node.js**     | heroku/nodejs|
 
 # big tqto
-| SimSimi | YES |
+| Tqto |
 | :-----------------: | :-------: |
-| Simi|✅|
-| Simih|✅|
+| Allah SWT|
+| Ortu|
+| Adiwajsing|
+| Penyedia module|
+| My frend|
+| Penyedia base|
+
 
