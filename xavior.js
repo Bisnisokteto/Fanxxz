@@ -533,7 +533,7 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
             }
             break
 	    case 'donasi': case 'sewabot': case 'sewa': case 'buypremium': case 'donate': {
-  goblok = fs.readFileSync('./video/ga.jpg')
+  goblok = fs.readFileSync('./lib/xavi.jpg')
                 xavior.sendMessage(m.chat, { image: goblok, caption: `┌──⭓ *Sewa Bot*
 
 │⭔ 1 Minggu :10k
@@ -553,9 +553,9 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 └───────⭓` }, { quoted: m })
             }
             case 'subscribe':{
-            smeme = fs.readFileSync('./video/bro.mp4')
+            smeme = fs.readFileSync('./lib/xavi.jpg')
 
-xavior.sendMessage(m.chat, { video: smeme, mimetype: 'video/mp4', fileName: `subrek.mp4`, caption: `Betewe Lu Dah Janji Mau Subscribe\n\nJangan PHP Yah 😊\n\nSubscibe:https://youtube.com/channel/UCmUhiytK9WMYaOFgdOho_2g`},{ quoted: m })} break
+xavior.sendMessage(m.chat, { video: smeme, mimetype: 'foto/jpg', fileName: `xavi.jpg`, caption: `Betewe Lu Dah tau kan \n\nkalo Dika gtg🗿\n\ng percaya? harus percaya🗿`},{ quoted: m })} break
 
 case 'runtime': { m.reply('4 days, 9 hours, 26 minutes')}
           break
