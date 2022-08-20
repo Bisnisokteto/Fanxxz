@@ -12,10 +12,10 @@
   <a href="https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
 
 # Contact me
-* **Fitur eror? Harap laporkan kpd owner**
+* **Fitur eror? Harap lapor⬇️**
 * [`klik disini`](https://wa.me/6288223674569)
-* **Test bot?**
-* [`klik disini`](https://wa.me/6283142211902)
+* **WhatsApp onwer?**
+* [`klik disini`](https://wa.me/6288223674569)
 
 # Heroku Buildpack
 
