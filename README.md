@@ -24,5 +24,9 @@
 | **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
 | **Node.js**     | heroku/nodejs|
 
-# y
-[`herw`](https://telegra.ph/file/5c1628b0b54db154d53a6.jpg)
+# big tqto
+| SimSimi | YES |
+| :-----------------: | :-------: |
+| Simi|✅|
+| Simih|✅|
+
