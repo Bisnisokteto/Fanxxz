@@ -26,5 +26,9 @@
 
 # big tqto
 * ```Allah SWT```
+* ```adiwajsing```
+* ```Penyedia module```
+* ```My Ortu```
+* ```My frend```
 
 
