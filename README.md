@@ -10,16 +10,6 @@
   <a href="https://github.com/Bisnisokteto"><img title="GitHub" src="https://img.shields.io/badge/Github-ramlaidi.svg?style=for-the-badge&logo=github" /></a>
   <a href="httts://instagram.com/Cigegerotak"><img title="Instagram " src="https://img.shields.io/badge/Instagram-Hyzerr.svg?style=for-the-badge&logo=instagram" /></a>
   <a href="https://youtube.com/channel/UCZoVmApPxtLYgUWwBD4nbCw"><img title="Youtube" src="https://img.shields.io/badge/Youtube-Hyzerr.svg?style=for-the-badge&logo=youtube" /></a>
-  <h4 align="center">
-  <a
-  <a href="https://wa.me/6288223674569">Klik disini untuk whatsapp DikaaOfc </a>
-</h4>
-</p>
-  <h4 align="center">
-<a
-  <a href="https://wa.me/6288223674569">Klik disini untuk melaporkan Fitur eror </a>
-</h4>
-</p>
 
 # Heroku Buildpack
 
