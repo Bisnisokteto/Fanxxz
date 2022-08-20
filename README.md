@@ -31,4 +31,5 @@
 * ```My Ortu```
 * ```My frend```
 
-
+# Note
+* **Jangan di perjual belikan script ini**
