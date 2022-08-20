@@ -17,7 +17,7 @@
 </p>
   <h4 align="center">
 <a
-  <a href="https://wa.me/6288223674569">Fitur eror? harap lapor owner </a>
+  <a href="https://wa.me/6288223674569">Klik disini untuk melaporkan Fitur eror </a>
 </h4>
 </p>
 
