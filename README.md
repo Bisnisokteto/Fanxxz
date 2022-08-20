@@ -15,3 +15,11 @@
   <a href="https://wa.me/6288223674569">Klik disini untuk whatsapp DikaaOfc </a>
 </h4>
 </p>
+
+# Heroku Buildpack
+
+| BuildPack | LINK |
+|--------|--------|
+| **FFMPEG** |[HERE](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [HERE](https://github.com/mcollina/heroku-buildpack-imagemagick.git) |
+| **Node.js**     | heroku/nodejs|
