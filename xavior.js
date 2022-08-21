@@ -540,17 +540,44 @@ Silahkan @${m.mentionedJid[0].split`@`[0]} untuk ketik terima/tolak`
 │⭔ 1 Bulan :15k
 │⭔ Permanen :20k
 └───────⭓
+┌──⭓ *Owner melayani*
+│⭔ • *Jasa run*
+│⭔ • *Jual sc*
+│⭔ • *Jadi bot*
+│⭔ • *Jadi owner*
+│⭔ • *Jadi bot+owner*
+│⭔ • *Sewa bot*
+│⭔ • *Jasa spam virtex*
+└───────⭓
 ┌──⭓ *Jadi Bot*
-
 │⭔ Jasa Jadi Bot: 30k
 │⭔ Jadi Owner FanxxzBOT: 15k
-└───────⭓
+️└───────⭓
+┌──⭓ *Jasa run*
+│⭔ Jasa run permanen :15k
+│⭔ website run :heroku, okteto
+️└───────⭓
+┌──⭓ *Jasa spam virtex*
+│⭔ 5 chat :1k
+│⭔ sampai crash :5k
+│⭔ Di jamin lawan auto crash
+️└───────⭓ 
 ┌──⭓ *Harga Sc Bot Wa*
-
 │⭔ Versi 1 :20k
 │⭔ Versi 2 :25k
 │⭔ Free : Chat Di WhatsApp Owner
-└───────⭓` }, { quoted: m })
+└───────⭓
+┌──⭓ *donasi FanxxzBOT*
+│⭔ Via nomer + Dana: 088223674569
+│⭔ Jangan lupa donasi kak🥰
+└───────⭓
+
+*Ragu? chat owner untuk meminta testi*
+*Ada kesulitan saat membeli jasa FanxxzBOT?*
+*Tanyakan kepada owner: https://wa.me/6288223674569
+
+© 2022
+*FanxxzBOT | DikaaOfc*` }, { quoted: m })
             }
             case 'subscribe':{
             smeme = fs.readFileSync('./lib/xavi.jpg')
